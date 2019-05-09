@@ -1,0 +1,26 @@
+---
+layout: post
+title:  "Vegetarian Chili"
+date:   2019-05-08 13:00:59 -0500
+categories: jekyll update
+---
+## Ingredients
+- Garbanzo beans (1 can)
+- Red Beans (1 can)
+- Onion (1)
+- Tomato diced (1 can)
+- Tomato Purée (1 can)
+- Basil
+- Spicy chili mix (whole foods)
+- Salt
+- Oil (Olive oil)
+
+## Steps
+1. Heat oil in a large pan
+2. Add chopped onions and saute for 2 minutes
+3. Add the can of diced tomatoes and the can of tomatoe Purée.
+4. Mix / stir for 2 minutes 
+5. Add the chili spice mix, salt and basil
+6. Mix / Stir for for 2 minutes
+7. Add the 2 cans of Red & Garbanzo beans
+8. Cover with lid and cook for 5 minutes with low heat
